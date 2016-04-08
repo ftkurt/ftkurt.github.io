@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html ng-app="demoapp" xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en">
+	<head>
+		<title>Turkish Internal Migrations</title>
+		<script type="text/javascript" src="assets/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/bootstrap.min.js"></script>
+		<script type="text/javascript" src="assets/vis/vis.min.js"></script>
+		<script type="text/javascript" src="assets/angular/angular.min.js"></script>
+		<script type="text/javascript" src="assets/angular/angular-resource.min.js"></script>
+		<script type="text/javascript" src="assets/angular/angular-route.min.js"></script>
+		<script type="text/javascript" src="demo.js"></script>
+		<link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/bootstrap-theme.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/vis/vis.min.css">
+		<script type="text/javascript">
+			
+		</script>
+		<script type="text/javascript">
+			
+		</script>
+		<style type="text/css">
+		body{width: 100%;}
+		output{display:initial !important;}
+		.demoContainer{
+			margin: 0px auto;
+			width: 1000px;
+		}
+		.header{
+			position: fixed;
+			width: 100%;
+			background-color: rgba(255, 255, 255, 0.9);
+			top:0px;
+			z-index: 9999;
+		}
+		.demoContent{margin-top: 98px;}
+		.migrationMap{
+
+		}
+
+		</style>
+	</head>
+	<body onload="start()" ng-controller="SlideShowController">
+	  <div class="demoContainer">
+	  	<div class="header">
+		  	<h1><a href="#">Turkish Internal Migrations</a> Demo<small> by <a href="https://github.com/ftkurt">ftkurt</a></small></h1>
+		  	<hr>
+	  	</div>
+		<div class="demoContent">
+			<div class="migrationMap"></div>
+		</div>
+	  </div>
+	</body>
+</html>

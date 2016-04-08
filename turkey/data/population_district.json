@@ -1,0 +1,4785 @@
+[
+  {
+    "address_city": "ANKARA",
+    "address_district": "CANKAYA",
+    "count": "604990"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "OSMANGAZI",
+    "count": "537267"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "KECIOREN",
+    "count": "504990"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "SEYHAN",
+    "count": "472385"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BAGCILAR",
+    "count": "464783"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "KUCUKCEKMECE",
+    "count": "452831"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "KADIKOY",
+    "count": "450898"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "YILDIRIM",
+    "count": "412262"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "SAHINBEY",
+    "count": "409370"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BAHCELIEVLER",
+    "count": "400784"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "UMRANIYE",
+    "count": "397766"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "YENIMAHALLE",
+    "count": "394456"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "USKUDAR",
+    "count": "386773"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "DENIZLI MERKEZ",
+    "count": "364648"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "PENDIK",
+    "count": "361148"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "MAMAK",
+    "count": "357056"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "AYDIN MERKEZ",
+    "count": "337912"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "SANLIURFA MERKEZ",
+    "count": "337778"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "SEHITKAMIL",
+    "count": "333536"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "FATIH",
+    "count": "330333"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "SELCUKLU",
+    "count": "327891"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KARABAGLAR",
+    "count": "323712"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "KAHRAMANMARAS MERKEZ",
+    "count": "315783"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "GAZIOSMANPASA",
+    "count": "311358"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "MALTEPE",
+    "count": "308877"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KONAK",
+    "count": "307860"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "KARTAL",
+    "count": "306616"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "MALATYA MERKEZ",
+    "count": "304886"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "ESENLER",
+    "count": "302527"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "YUREGIR",
+    "count": "302500"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BUCA",
+    "count": "300137"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "SINCAN",
+    "count": "294487"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BORNOVA",
+    "count": "293220"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "KAGITHANE",
+    "count": "292068"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "MELIKGAZI",
+    "count": "284849"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "MURATPASA",
+    "count": "278631"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SULTANGAZI",
+    "count": "277983"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "HATAY MERKEZ",
+    "count": "273712"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "ELAZIG MERKEZ",
+    "count": "260156"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "ODUNPAZARI",
+    "count": "259533"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "KEPEZ",
+    "count": "259371"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "ALTINDAG",
+    "count": "254933"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "KOCASINAN",
+    "count": "249924"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KARSIYAKA",
+    "count": "237750"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "ESENYURT",
+    "count": "237646"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "MANISA MERKEZ",
+    "count": "236730"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SISLI",
+    "count": "236308"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "AVCILAR",
+    "count": "235646"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "BALIKESIR MERKEZ",
+    "count": "235295"
+  },
+  {
+    "address_city": "BATMAN",
+    "address_district": "BATMAN MERKEZ",
+    "count": "230248"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "VAN MERKEZ",
+    "count": "229007"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "GUNGOREN",
+    "count": "226749"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "EYUP",
+    "count": "224597"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "CUKUROVA",
+    "count": "224029"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "ILKADIM",
+    "count": "222224"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "SIVAS MERKEZ",
+    "count": "220815"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "IZMIT",
+    "count": "220229"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BAYRAKLI",
+    "count": "219597"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "NAZILLI",
+    "count": "215614"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "TRABZON MERKEZ",
+    "count": "213422"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "TEPEBASI",
+    "count": "207306"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "KIZILTEPE",
+    "count": "204904"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "TARSUS",
+    "count": "204490"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "ISKENDERUN",
+    "count": "204073"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "MERAM",
+    "count": "203624"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SARIYER",
+    "count": "202841"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "ZEYTINBURNU",
+    "count": "199651"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "NILUFER",
+    "count": "197840"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "ATASEHIR",
+    "count": "196697"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BAYRAMPASA",
+    "count": "193558"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "GEBZE",
+    "count": "190029"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "BAGLAR",
+    "count": "189965"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "AKDENIZ",
+    "count": "182124"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "TOROSLAR",
+    "count": "176647"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "CORUM MERKEZ",
+    "count": "175721"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "ETIMESGUT",
+    "count": "174294"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "ADAPAZARI",
+    "count": "172787"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BEYKOZ",
+    "count": "172483"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BEYOGLU",
+    "count": "171442"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BAKIRKOY",
+    "count": "170416"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SULTANBEYLI",
+    "count": "169888"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "CORLU",
+    "count": "166999"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "KUTAHYA MERKEZ",
+    "count": "166664"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "SOKE",
+    "count": "165308"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "AKSARAY MERKEZ",
+    "count": "164241"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "AFYONKARAHISAR MERKEZ",
+    "count": "164134"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "KARATAY",
+    "count": "161829"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "BINGOL MERKEZ",
+    "count": "161446"
+  },
+  {
+    "address_city": "ZONGULDAK",
+    "address_district": "ZONGULDAK MERKEZ",
+    "count": "160446"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "ADIYAMAN MERKEZ",
+    "count": "158529"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SANCAKTEPE",
+    "count": "157365"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "ALANYA",
+    "count": "156986"
+  },
+  {
+    "address_city": "USAK",
+    "address_district": "USAK MERKEZ",
+    "count": "153003"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BESIKTAS",
+    "count": "151537"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "KIRIKKALE MERKEZ",
+    "count": "144179"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "ISPARTA MERKEZ",
+    "count": "143587"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "INEGOL",
+    "count": "143025"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "OSMANIYE MERKEZ",
+    "count": "139033"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "MARDIN MERKEZ",
+    "count": "136332"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BEYLIKDUZU",
+    "count": "135679"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "YENISEHIR",
+    "count": "131316"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "DUZCE MERKEZ",
+    "count": "130352"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "FETHIYE",
+    "count": "127982"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BASAKSEHIR",
+    "count": "125232"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "ORDU MERKEZ",
+    "count": "124672"
+  },
+  {
+    "address_city": "NIGDE",
+    "address_district": "NIGDE MERKEZ",
+    "count": "124636"
+  },
+  {
+    "address_city": "ZONGULDAK",
+    "address_district": "EREGLI/ZONGULDAK",
+    "count": "123775"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "NUSAYBIN",
+    "count": "121640"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "TEKIRDAG MERKEZ",
+    "count": "121386"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "TOKAT MERKEZ",
+    "count": "120856"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "AKHISAR",
+    "count": "119942"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "MIDYAT",
+    "count": "119660"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "MANAVGAT",
+    "count": "119242"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "KUSADASI",
+    "count": "116866"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "SALIHLI",
+    "count": "116614"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "YAKUTIYE",
+    "count": "114830"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "CIGLI",
+    "count": "114462"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "EDIRNE MERKEZ",
+    "count": "113420"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "TUZLA",
+    "count": "113395"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "BOLU MERKEZ",
+    "count": "113325"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "CANKIRI MERKEZ",
+    "count": "113238"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "BUYUKCEKMECE",
+    "count": "112641"
+  },
+  {
+    "address_city": "KARAMAN",
+    "address_district": "KARAMAN MERKEZ",
+    "count": "111765"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "KAYAPINAR",
+    "count": "109493"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "YENISEHIR",
+    "count": "108308"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "CEYHAN",
+    "count": "105113"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "BAFRA",
+    "count": "102115"
+  },
+  {
+    "address_city": "BARTIN",
+    "address_district": "BARTIN MERKEZ",
+    "count": "101943"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "TURGUTLU",
+    "count": "99366"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "BANDIRMA",
+    "count": "98927"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "ODEMIS",
+    "count": "98701"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "SIVEREK",
+    "count": "98184"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "ARNAVUTKOY",
+    "count": "98068"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "LULEBURGAZ",
+    "count": "98014"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "PALANDOKEN",
+    "count": "97442"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "CERKEZKOY",
+    "count": "96836"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "GOLCUK",
+    "count": "95431"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "RIZE MERKEZ",
+    "count": "95036"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "CEKMEKOY",
+    "count": "94411"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "CARSAMBA",
+    "count": "94192"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "ERZINCAN MERKEZ",
+    "count": "92770"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "EREGLI/KONYA",
+    "count": "91802"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "MILAS",
+    "count": "91594"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "AMASYA MERKEZ",
+    "count": "91178"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "DORTYOL",
+    "count": "90988"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "DARICA",
+    "count": "88862"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "CANAKKALE MERKEZ",
+    "count": "88555"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "KORFEZ",
+    "count": "88320"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SILIVRI",
+    "count": "88152"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "MEZITLI",
+    "count": "88043"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "ERDEMLI",
+    "count": "87363"
+  },
+  {
+    "address_city": "KARABUK",
+    "address_district": "KARABUK MERKEZ",
+    "count": "86845"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "DERINCE",
+    "count": "86707"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "KASTAMONU MERKEZ",
+    "count": "86660"
+  },
+  {
+    "address_city": "MUS",
+    "address_district": "MUS MERKEZ",
+    "count": "86611"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "GIRESUN MERKEZ",
+    "count": "86371"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "KOZAN",
+    "count": "85565"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "TORBALI",
+    "count": "85405"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "KIRSEHIR MERKEZ",
+    "count": "85276"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "MENEMEN",
+    "count": "84809"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "ELBISTAN",
+    "count": "83963"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "EDREMIT/BALIKESIR",
+    "count": "83592"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "BODRUM",
+    "count": "83563"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "CINE",
+    "count": "82728"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "SAMANDAGI",
+    "count": "82571"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "SILIFKE",
+    "count": "81104"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "UNYE",
+    "count": "80178"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "ATAKUM",
+    "count": "78976"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "NIZIP",
+    "count": "78357"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "NEVSEHIR MERKEZ",
+    "count": "78161"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "AKCAABAT",
+    "count": "77605"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "ERCIS",
+    "count": "77502"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "GAZIEMIR",
+    "count": "77260"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "KADIRLI",
+    "count": "76374"
+  },
+  {
+    "address_city": "YALOVA",
+    "address_district": "YALOVA MERKEZ",
+    "count": "75888"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "MUSTAFA K.PASA",
+    "count": "75867"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "POLATLI",
+    "count": "75192"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "TAVSANLI",
+    "count": "74834"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "VIRANSEHIR",
+    "count": "74153"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BERGAMA",
+    "count": "73889"
+  },
+  {
+    "address_city": "ZONGULDAK",
+    "address_district": "CAYCUMA",
+    "count": "73674"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "MUGLA MERKEZ",
+    "count": "72860"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "SERIK",
+    "count": "72699"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "SOMA",
+    "count": "71971"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "GEMLIK",
+    "count": "71614"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "ALASEHIR",
+    "count": "71517"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "SARICAM",
+    "count": "71249"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "AKSEHIR",
+    "count": "71229"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "AGRI MERKEZ",
+    "count": "70985"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "BURDUR MERKEZ",
+    "count": "69166"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "FATSA",
+    "count": "69074"
+  },
+  {
+    "address_city": "IGDIR",
+    "address_district": "IGDIR MERKEZ",
+    "count": "68726"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "KARS MERKEZ",
+    "count": "68557"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "SUR",
+    "count": "68309"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "DIDIM",
+    "count": "68066"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "SIIRT MERKEZ",
+    "count": "67321"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "KONYAALTI",
+    "count": "66943"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "VEZIRKOPRU",
+    "count": "66001"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "YOZGAT MERKEZ",
+    "count": "64874"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "ERBAA",
+    "count": "64791"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "KIRIKHAN",
+    "count": "64178"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "BIGA",
+    "count": "63078"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "KAHTA",
+    "count": "62866"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "KIRKLARELI MERKEZ",
+    "count": "62833"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "ERGANI",
+    "count": "62200"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "GERMENCIK",
+    "count": "61956"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "TURHAL",
+    "count": "60734"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KEMALPASA",
+    "count": "60708"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BALCOVA",
+    "count": "60693"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "PURSAKLAR",
+    "count": "59348"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "INCIRLIOVA",
+    "count": "59322"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "KARTEPE",
+    "count": "58675"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "TIRE",
+    "count": "58596"
+  },
+  {
+    "address_city": "KILIS",
+    "address_district": "KILIS MERKEZ",
+    "count": "58000"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "SORGUN",
+    "count": "57973"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "CANIK",
+    "count": "57940"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "KARACABEY",
+    "count": "57676"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "AKYAZI",
+    "count": "57548"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "KESAN",
+    "count": "56850"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "SIMAV",
+    "count": "56582"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "BISMIL",
+    "count": "56108"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "DOGUBAYAZIT",
+    "count": "56028"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "DERIK",
+    "count": "55882"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "GONEN/BALIKESIR",
+    "count": "55875"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "PATNOS",
+    "count": "55857"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "GOLBASI/ANKARA",
+    "count": "54359"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "ORHANGAZI",
+    "count": "54245"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "BOZDOGAN",
+    "count": "54170"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "AFSIN",
+    "count": "54062"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "TERME",
+    "count": "53826"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "UZUNKOPRU",
+    "count": "53797"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "HENDEK",
+    "count": "53543"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "MARMARIS",
+    "count": "53513"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "CUBUK",
+    "count": "52665"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "TALAS",
+    "count": "52656"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "SURUC",
+    "count": "52119"
+  },
+  {
+    "address_city": "HAKKARI",
+    "address_district": "YUKSEKOVA",
+    "count": "51940"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "BESNI",
+    "count": "50901"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "MERZIFON",
+    "count": "50205"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "BEYSEHIR",
+    "count": "50040"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "CAYIROVA",
+    "count": "49998"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "PAZARCIK",
+    "count": "49470"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "SERDIVAN",
+    "count": "49256"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "ERENLER",
+    "count": "48936"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "CIZRE",
+    "count": "48548"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "MUDANYA",
+    "count": "48053"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "DUZICI",
+    "count": "47997"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "MENDERES",
+    "count": "47778"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "REYHANLI",
+    "count": "47772"
+  },
+  {
+    "address_city": "ZONGULDAK",
+    "address_district": "DEVREK",
+    "count": "47681"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "ZILE",
+    "count": "47560"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "NIKSAR",
+    "count": "46918"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "KUYUCAK",
+    "count": "46772"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "BOZUYUK",
+    "count": "46635"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "SEYDISEHIR",
+    "count": "46232"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "ANAMUR",
+    "count": "45737"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "BIRECIK",
+    "count": "45710"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "KUMLUCA",
+    "count": "45603"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "AYVALIK",
+    "count": "45521"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "SANDIKLI",
+    "count": "45372"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "CIVRIL",
+    "count": "45239"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "MUT",
+    "count": "44978"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "ALIAGA",
+    "count": "44781"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "BASISKELE",
+    "count": "44116"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "BUCAK",
+    "count": "43271"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "CATALCA",
+    "count": "43266"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "BULANCAK",
+    "count": "43098"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "SILOPI",
+    "count": "43087"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "SUNGURLU",
+    "count": "42820"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "DEVELI",
+    "count": "42788"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "MALKARA",
+    "count": "42764"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "GENC",
+    "count": "42722"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "NARLIDERE",
+    "count": "42703"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "SILVAN",
+    "count": "42644"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "ILGIN",
+    "count": "42633"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "ACIPAYAM",
+    "count": "42497"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "SARUHANLI",
+    "count": "42292"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "TUNCELI MERKEZ",
+    "count": "41904"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "CUMRA",
+    "count": "41569"
+  },
+  {
+    "address_city": "MUS",
+    "address_district": "BULANIK",
+    "count": "41392"
+  },
+  {
+    "address_city": "HAKKARI",
+    "address_district": "HAKKARI MERKEZ",
+    "count": "41088"
+  },
+  {
+    "address_city": "NIGDE",
+    "address_district": "BOR",
+    "count": "41021"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "CIHANBEYLI",
+    "count": "40976"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "SINOP MERKEZ",
+    "count": "40966"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "ISLAHIYE",
+    "count": "40843"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "YALVAC",
+    "count": "40680"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "BILECIK MERKEZ",
+    "count": "40672"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "TATVAN",
+    "count": "40652"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "KOCARLI",
+    "count": "40610"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "GEDIZ",
+    "count": "40474"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "CAN",
+    "count": "40216"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "BABAESKI",
+    "count": "39894"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "TAVAS",
+    "count": "39048"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "KOSK",
+    "count": "38802"
+  },
+  {
+    "address_city": "BAYBURT",
+    "address_district": "BAYBURT MERKEZ",
+    "count": "38766"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "DEMIRCI",
+    "count": "38440"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "YENISEHIR",
+    "count": "38322"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "TURKOGLU",
+    "count": "38062"
+  },
+  {
+    "address_city": "KARABUK",
+    "address_district": "SAFRANBOLU",
+    "count": "37526"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "BIGADIC",
+    "count": "37407"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "SAVUR",
+    "count": "37064"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "SOLHAN",
+    "count": "36898"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "BURHANIYE",
+    "count": "36847"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "KARASU",
+    "count": "36702"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "URLA",
+    "count": "36605"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "KARAMURSEL",
+    "count": "36587"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "GOKSUN",
+    "count": "36212"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "AKSU",
+    "count": "36181"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "KAS",
+    "count": "35899"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "GURSU",
+    "count": "35764"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "DINAR",
+    "count": "35660"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "CEYLANPINAR",
+    "count": "35589"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "KORKUTELI",
+    "count": "35515"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "ALTINOZU",
+    "count": "35426"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "KARLIOVA",
+    "count": "35150"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "YATAGAN",
+    "count": "35064"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "AKCAKALE",
+    "count": "34904"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "BEYPAZARI",
+    "count": "34652"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "KANDIRA",
+    "count": "34552"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "KULA",
+    "count": "34484"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "AKDAGMADENI",
+    "count": "34340"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "DURSUNBEY",
+    "count": "34122"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "BITLIS MERKEZ",
+    "count": "33961"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "TEKKEKOY",
+    "count": "33950"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "GAZIPASA",
+    "count": "33882"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "SIRNAK MERKEZ",
+    "count": "33802"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "AZIZIYE",
+    "count": "33651"
+  },
+  {
+    "address_city": "ZONGULDAK",
+    "address_district": "ALAPLI",
+    "count": "33558"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "HASSA",
+    "count": "33555"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "KESTEL",
+    "count": "33546"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "ELMADAG",
+    "count": "33120"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "SARAY/TEKIRDAG",
+    "count": "33106"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "HAVZA",
+    "count": "33004"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "SULUOVA",
+    "count": "32987"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "GEYVE",
+    "count": "32968"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "OZALP",
+    "count": "32964"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "ARAKLI",
+    "count": "32907"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "FINIKE",
+    "count": "32881"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "IZNIK",
+    "count": "32823"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KIRAZ",
+    "count": "32787"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "BOLVADIN",
+    "count": "32511"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "SUSURLUK",
+    "count": "32393"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "SULTANHISAR",
+    "count": "32330"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "OSMANCIK",
+    "count": "32286"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "MAZIDAGI",
+    "count": "32002"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "SINDIRGI",
+    "count": "31973"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "KAMAN",
+    "count": "31809"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BAYINDIR",
+    "count": "31685"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "TOSYA",
+    "count": "31680"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "YILDIZELI",
+    "count": "31655"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "EMIRDAG",
+    "count": "31586"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "KARACASU",
+    "count": "31560"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "GOLBASI/ADIYAMAN",
+    "count": "31381"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "GELIBOLU",
+    "count": "31205"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "TASKOPRU",
+    "count": "30974"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "RESADIYE",
+    "count": "30886"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "BOYABAT",
+    "count": "30861"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "CAYELI",
+    "count": "30620"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "KULU",
+    "count": "30606"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "KARAPINAR",
+    "count": "30431"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "BOZOVA",
+    "count": "30394"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "SARIKAYA",
+    "count": "30192"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "KIRKAGAC",
+    "count": "30140"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "ISKILIP",
+    "count": "30126"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "OF",
+    "count": "29865"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "ORTACA",
+    "count": "29763"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "SINANPASA",
+    "count": "29409"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "YENICE/CANAKKALE",
+    "count": "29268"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "CINAR",
+    "count": "29235"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "YERKOY",
+    "count": "29071"
+  },
+  {
+    "address_city": "USAK",
+    "address_district": "BANAZ",
+    "count": "28997"
+  },
+  {
+    "address_city": "MUS",
+    "address_district": "MALAZGIRT",
+    "count": "28966"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "IVRINDI",
+    "count": "28758"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "SUHUT",
+    "count": "28679"
+  },
+  {
+    "address_city": "BATMAN",
+    "address_district": "KOZLUK",
+    "count": "28672"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "SARKISLA",
+    "count": "28625"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "IDIL",
+    "count": "28622"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "SARIKAMIS",
+    "count": "28381"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "DOGANSEHIR",
+    "count": "28159"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "BASKALE",
+    "count": "28139"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "AKCAKOCA",
+    "count": "28016"
+  },
+  {
+    "address_city": "USAK",
+    "address_district": "ESME",
+    "count": "27922"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "KAGIZMAN",
+    "count": "27803"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "ALACA",
+    "count": "27783"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "SARIGOL",
+    "count": "27717"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "CALDIRAN",
+    "count": "27681"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "HAYRABOLU",
+    "count": "27530"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "ANDIRIN",
+    "count": "27430"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "CERMIK",
+    "count": "27356"
+  },
+  {
+    "address_city": "GUMUSHANE",
+    "address_district": "KELKIT",
+    "count": "27308"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "ARDESEN",
+    "count": "27245"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "ORTAKOY",
+    "count": "27188"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "ELMALI",
+    "count": "27087"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "KURTALAN",
+    "count": "27026"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "DOSEMEALTI",
+    "count": "26757"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "DARGECIT",
+    "count": "26668"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "PERSEMBE",
+    "count": "26573"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "HARRAN",
+    "count": "26143"
+  },
+  {
+    "address_city": "GUMUSHANE",
+    "address_district": "GUMUSHANE MERKEZ",
+    "count": "26028"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "ERDEK",
+    "count": "25887"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "ERZIN",
+    "count": "25648"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "EGIRDIR",
+    "count": "25587"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "TASOVA",
+    "count": "25518"
+  },
+  {
+    "address_city": "ARDAHAN",
+    "address_district": "ARDAHAN MERKEZ",
+    "count": "25468"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "SELCUK",
+    "count": "25332"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "AVANOS",
+    "count": "25330"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "SAPANCA",
+    "count": "25290"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "GEREDE",
+    "count": "25211"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "BOGAZLIYAN",
+    "count": "25200"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "URGUP",
+    "count": "25186"
+  },
+  {
+    "address_city": "KOCAELI",
+    "address_district": "DILOVASI",
+    "count": "25051"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "BAYRAMIC",
+    "count": "25028"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "SEREFLIKOCHISAR",
+    "count": "24960"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "MURADIYE",
+    "count": "24912"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "GOLKOY",
+    "count": "24887"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "GORDES",
+    "count": "24846"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "YAHYALI",
+    "count": "24844"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "EZINE",
+    "count": "24714"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "CAY",
+    "count": "24668"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "ARIFIYE",
+    "count": "24584"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "HALFETI",
+    "count": "24547"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "HORASAN",
+    "count": "24178"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "NALLIHAN",
+    "count": "24172"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "KAZAN",
+    "count": "24090"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "AYVACIK/CANAKKALE",
+    "count": "23840"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "HAYMANA",
+    "count": "23800"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "SARKOY",
+    "count": "23510"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "ARTVIN MERKEZ",
+    "count": "23435"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "PAZAR/RIZE",
+    "count": "23276"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "DALAMAN",
+    "count": "23214"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "KOYCEGIZ",
+    "count": "23202"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "IPSALA",
+    "count": "23019"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "KADINHANI",
+    "count": "22991"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "KOVANCILAR",
+    "count": "22909"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "BUNYAN",
+    "count": "22839"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "VIZE",
+    "count": "22704"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "HOPA",
+    "count": "22678"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "KEMER/ANTALYA",
+    "count": "22623"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "DIKILI",
+    "count": "22615"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "GULNAR",
+    "count": "22519"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "CESME",
+    "count": "22489"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "SARAYKOY",
+    "count": "22354"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "GORELE",
+    "count": "22336"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "NURDAGI",
+    "count": "22310"
+  },
+  {
+    "address_city": "KARAMAN",
+    "address_district": "ERMENEK",
+    "count": "22209"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "BOZKIR",
+    "count": "22035"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "DICLE",
+    "count": "22019"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "KUMRU",
+    "count": "21976"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "ESPIYE",
+    "count": "21718"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "DIYADIN",
+    "count": "21694"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "OLTU",
+    "count": "21628"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "KORGAN",
+    "count": "21591"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "TIREBOLU",
+    "count": "21534"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "ELESKIRT",
+    "count": "21533"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "ALACAM",
+    "count": "21526"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "YESILYURT/MALATYA",
+    "count": "21523"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "CERKES",
+    "count": "21416"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "SARKIKARAAGAC",
+    "count": "21409"
+  },
+  {
+    "address_city": "HAKKARI",
+    "address_district": "SEMDINLI",
+    "count": "21397"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "YENIPAZAR/AYDIN",
+    "count": "21344"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "AKKUS",
+    "count": "21254"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "DARENDE",
+    "count": "21054"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "ILGAZ",
+    "count": "20974"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "IMAMOGLU",
+    "count": "20939"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "YOMRA",
+    "count": "20850"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "LAPSEKI",
+    "count": "20797"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "PINARBASI/KAYSERI",
+    "count": "20507"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "ADILCEVAZ",
+    "count": "20493"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "HAVRAN",
+    "count": "20437"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "BULDAN",
+    "count": "20419"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "GUROYMAK",
+    "count": "20385"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "ALMUS",
+    "count": "20323"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KINIK",
+    "count": "20275"
+  },
+  {
+    "address_city": "SANLIURFA",
+    "address_district": "HILVAN",
+    "count": "20183"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "HONAZ",
+    "count": "20134"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "SURMENE",
+    "count": "19990"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "GEMEREK",
+    "count": "19937"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "KARPUZLU",
+    "count": "19804"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "GURPINAR",
+    "count": "19754"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "GUMUSHACIKOY",
+    "count": "19648"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "VAKFIKEBIR",
+    "count": "19616"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "MURATLI",
+    "count": "19593"
+  },
+  {
+    "address_city": "MUS",
+    "address_district": "VARTO",
+    "count": "19544"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "AKCADAG",
+    "count": "19513"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "IHSANIYE",
+    "count": "19484"
+  },
+  {
+    "address_city": "ARDAHAN",
+    "address_district": "GOLE",
+    "count": "19450"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "KEPSUT",
+    "count": "19411"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "AHLAT",
+    "count": "19403"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "HIZAN",
+    "count": "19367"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "KIZILCAHAMAM",
+    "count": "19246"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "YUNAK",
+    "count": "19231"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "KARAKOCAN",
+    "count": "19213"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "SARAYONU",
+    "count": "19190"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "ARABAN",
+    "count": "19106"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "SILE",
+    "count": "19051"
+  },
+  {
+    "address_city": "BARTIN",
+    "address_district": "ULUS",
+    "count": "19033"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "PASINLER",
+    "count": "19006"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "SUSEHRI",
+    "count": "18889"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "BELEN",
+    "count": "18758"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "SEFERIHISAR",
+    "count": "18719"
+  },
+  {
+    "address_city": "YALOVA",
+    "address_district": "CIFTLIKKOY",
+    "count": "18705"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "BOZYAZI",
+    "count": "18689"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "TOMARZA",
+    "count": "18671"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "PAMUKOVA",
+    "count": "18655"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "SIVRIHISAR",
+    "count": "18607"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "CEKEREK",
+    "count": "18601"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "MACKA",
+    "count": "18557"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "ULA",
+    "count": "18556"
+  },
+  {
+    "address_city": "AYDIN",
+    "address_district": "BUHARKENT",
+    "count": "18466"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "EMET",
+    "count": "18251"
+  },
+  {
+    "address_city": "KARABUK",
+    "address_district": "YENICE/KARABUK",
+    "count": "18249"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "HINIS",
+    "count": "18204"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "KULP",
+    "count": "18104"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "GULSEHIR",
+    "count": "17987"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "CAL",
+    "count": "17984"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "MANYAS",
+    "count": "17980"
+  },
+  {
+    "address_city": "YALOVA",
+    "address_district": "CINARCIK",
+    "count": "17925"
+  },
+  {
+    "address_city": "ZONGULDAK",
+    "address_district": "GOKCEBEY",
+    "count": "17917"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "KANGAL",
+    "count": "17879"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "ORHANELI",
+    "count": "17861"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "ORTA",
+    "count": "17816"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "OGUZELI",
+    "count": "17695"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "AYANCIK",
+    "count": "17693"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "DEMRE",
+    "count": "17652"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "CAGLIYANCERIT",
+    "count": "17635"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "AYBASTI",
+    "count": "17579"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "YESILLI",
+    "count": "17510"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "BATTALGAZI",
+    "count": "17492"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "ONDOKUZMAYIS",
+    "count": "17464"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "ARSIN",
+    "count": "17399"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "HAVSA",
+    "count": "17388"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "BAYAT/CORUM",
+    "count": "17301"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "TUTAK",
+    "count": "17245"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "SELENDI",
+    "count": "17243"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "INEBOLU",
+    "count": "17164"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "BORCKA",
+    "count": "16888"
+  },
+  {
+    "address_city": "NIGDE",
+    "address_district": "ULUKISLA",
+    "count": "16859"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "FERIZLI",
+    "count": "16850"
+  },
+  {
+    "address_city": "NIGDE",
+    "address_district": "CIFTLIK",
+    "count": "16838"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "KOCAALI",
+    "count": "16834"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "HEKIMHAN",
+    "count": "16769"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "YUSUFELI",
+    "count": "16757"
+  },
+  {
+    "address_city": "MARDIN",
+    "address_district": "OMERLI",
+    "count": "16694"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "PERTEK",
+    "count": "16666"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "KARAISALI",
+    "count": "16449"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "DOGANHISAR",
+    "count": "16426"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "FOCA",
+    "count": "16425"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "KAYNARCA",
+    "count": "16235"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "BESIKDUZU",
+    "count": "16164"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "SEBINKARAHISAR",
+    "count": "16126"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "GERZE",
+    "count": "16115"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "DERELI",
+    "count": "16052"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "KARAYAZI",
+    "count": "16049"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "KESAP",
+    "count": "16013"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "MUDURNU",
+    "count": "15975"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "AKYURT",
+    "count": "15973"
+  },
+  {
+    "address_city": "BITLIS",
+    "address_district": "MUTKI",
+    "count": "15968"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "ZARA",
+    "count": "15945"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "ASKALE",
+    "count": "15812"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "BALA",
+    "count": "15804"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "ARAC",
+    "count": "15749"
+  },
+  {
+    "address_city": "USAK",
+    "address_district": "SIVASLI",
+    "count": "15723"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "GOLHISAR",
+    "count": "15723"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "YAPRAKLI",
+    "count": "15684"
+  },
+  {
+    "address_city": "YALOVA",
+    "address_district": "ALTINOVA",
+    "count": "15667"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "AYVACIK/SAMSUN",
+    "count": "15645"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "KALE/DENIZLI",
+    "count": "15644"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "TEKMAN",
+    "count": "15628"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "CIDE",
+    "count": "15621"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "HANI",
+    "count": "15561"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "GUZELBAHCE",
+    "count": "15466"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "KAVAK",
+    "count": "15372"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "OSMANELI",
+    "count": "15353"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "GEVAS",
+    "count": "15326"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "LICE",
+    "count": "15300"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "CAMELI",
+    "count": "15291"
+  },
+  {
+    "address_city": "MUS",
+    "address_district": "HASKOY",
+    "count": "15281"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "SELIM",
+    "count": "15278"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "PINARHISAR",
+    "count": "15276"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "ULUBEY/ORDU",
+    "count": "15195"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "ESKIL",
+    "count": "15174"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "SAVASTEPE",
+    "count": "15167"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "CAYIRALAN",
+    "count": "15161"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "TORTUM",
+    "count": "14963"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "SAVSAT",
+    "count": "14875"
+  },
+  {
+    "address_city": "BATMAN",
+    "address_district": "BESIRI",
+    "count": "14848"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "KESKIN",
+    "count": "14840"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "ULUDERE",
+    "count": "14789"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "SULTANDAGI",
+    "count": "14740"
+  },
+  {
+    "address_city": "IGDIR",
+    "address_district": "TUZLUCA",
+    "count": "14727"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "ISCEHISAR",
+    "count": "14702"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "KARATAS",
+    "count": "14700"
+  },
+  {
+    "address_city": "BATMAN",
+    "address_district": "SASON",
+    "count": "14679"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "YESILOVA",
+    "count": "14639"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "SENKAYA",
+    "count": "14611"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "DIGOR",
+    "count": "14597"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "HUYUK",
+    "count": "14560"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "MECITOZU",
+    "count": "14557"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "GURUN",
+    "count": "14530"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "KAYNASLI",
+    "count": "14420"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "DURAGAN",
+    "count": "14374"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "PUTURGE",
+    "count": "14342"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "ALTINTAS",
+    "count": "14253"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "YAYLADAG",
+    "count": "14250"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "SOGUT",
+    "count": "14220"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "ARHAVI",
+    "count": "14210"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "GERGER",
+    "count": "14187"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "GOLYAKA",
+    "count": "14172"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "GULAGAC",
+    "count": "13981"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "MUCUR",
+    "count": "13925"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "INCESU",
+    "count": "13859"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "POZANTI",
+    "count": "13853"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "BAHCE",
+    "count": "13838"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "DERINKUYU",
+    "count": "13774"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "ARPACAY",
+    "count": "13720"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "PERVARI",
+    "count": "13715"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "BAYKAN",
+    "count": "13681"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "LADIK",
+    "count": "13656"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "MAZGIRT",
+    "count": "13642"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "YAGLIDERE",
+    "count": "13627"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "DOMANIC",
+    "count": "13531"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "SALIPAZARI",
+    "count": "13492"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "MERIC",
+    "count": "13462"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "SABANOZU",
+    "count": "13438"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "YUMURTALIK",
+    "count": "13422"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "ACIGOL",
+    "count": "13350"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "KARGI",
+    "count": "13339"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "DIVRIGI",
+    "count": "13283"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "TUFANBEYLI",
+    "count": "13283"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "PALU",
+    "count": "13279"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "SEFAATLI",
+    "count": "13245"
+  },
+  {
+    "address_city": "BATMAN",
+    "address_district": "GERCUS",
+    "count": "13200"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "ISPIR",
+    "count": "13192"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "GELENDOST",
+    "count": "13122"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "FEKE",
+    "count": "13052"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "SEYITGAZI",
+    "count": "12969"
+  },
+  {
+    "address_city": "TEKIRDAG",
+    "address_district": "MARMARAEREGLISI",
+    "count": "12932"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "BALYA",
+    "count": "12925"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "EDREMIT/VAN",
+    "count": "12870"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "GURGENTEPE",
+    "count": "12691"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "GOYNUK",
+    "count": "12682"
+  },
+  {
+    "address_city": "GUMUSHANE",
+    "address_district": "SIRAN",
+    "count": "12610"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "KARACOBAN",
+    "count": "12580"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "KECIBORLU",
+    "count": "12578"
+  },
+  {
+    "address_city": "MUS",
+    "address_district": "KORKUT",
+    "count": "12546"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "KURSUNLU",
+    "count": "12504"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "YAVUZELI",
+    "count": "12471"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "SARIOGLAN",
+    "count": "12454"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "YIGILCA",
+    "count": "12413"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "IKIZCE",
+    "count": "12373"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "CICEKDAGI",
+    "count": "12354"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "ALADAG",
+    "count": "12297"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "KIZILIRMAK",
+    "count": "12268"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "YESILHISAR",
+    "count": "12263"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "EGIL",
+    "count": "12213"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "CIFTELER",
+    "count": "12108"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "TONYA",
+    "count": "12002"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "AHMETLI",
+    "count": "11978"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "CAT",
+    "count": "11960"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "DATCA",
+    "count": "11953"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "KELES",
+    "count": "11944"
+  },
+  {
+    "address_city": "USAK",
+    "address_district": "ULUBEY/USAK",
+    "count": "11928"
+  },
+  {
+    "address_city": "BARTIN",
+    "address_district": "AMASRA",
+    "count": "11903"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "SINCIK",
+    "count": "11860"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "CILIMLI",
+    "count": "11825"
+  },
+  {
+    "address_city": "IGDIR",
+    "address_district": "ARALIK",
+    "count": "11761"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "FINDIKLI",
+    "count": "11733"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "SARAYKENT",
+    "count": "11729"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "KALECIK",
+    "count": "11723"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "CEMISGEZEK",
+    "count": "11720"
+  },
+  {
+    "address_city": "ADANA",
+    "address_district": "SAIMBEYLI",
+    "count": "11661"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "KOZAKLI",
+    "count": "11648"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "MENGEN",
+    "count": "11596"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "TERCAN",
+    "count": "11543"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "CARSIBASI",
+    "count": "11523"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "AKSEKI",
+    "count": "11422"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "TASLICAY",
+    "count": "11396"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "ASARCIK",
+    "count": "11396"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "DUZKOY",
+    "count": "11332"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "HISARCIK",
+    "count": "11306"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "SERINHISAR",
+    "count": "11201"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "GOLMARMARA",
+    "count": "11199"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "NARMAN",
+    "count": "11068"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "SARAY/VAN",
+    "count": "11041"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "BASKIL",
+    "count": "10994"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "PIRAZIZ",
+    "count": "10883"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "CATAK",
+    "count": "10842"
+  },
+  {
+    "address_city": "AGRI",
+    "address_district": "HAMUR",
+    "count": "10798"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "HADIM",
+    "count": "10783"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "SUMBAS",
+    "count": "10741"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "TURKELI",
+    "count": "10710"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "EYNESIL",
+    "count": "10564"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "GUMUSOVA",
+    "count": "10417"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "KADISEHRI",
+    "count": "10385"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "CATALPINAR",
+    "count": "10374"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "SOGUTLU",
+    "count": "10346"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "PAZAR/TOKAT",
+    "count": "10340"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "MADEN",
+    "count": "10305"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "BEYDAG",
+    "count": "10279"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "NURHAK",
+    "count": "10252"
+  },
+  {
+    "address_city": "NIGDE",
+    "address_district": "CAMARDI",
+    "count": "10219"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "DEVREKANI",
+    "count": "10208"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "SIRVAN",
+    "count": "10171"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "CAYKARA",
+    "count": "10082"
+  },
+  {
+    "address_city": "KARABUK",
+    "address_district": "ESKIPAZAR",
+    "count": "10041"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "YAZIHAN",
+    "count": "10038"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "SUTCULER",
+    "count": "10014"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "BUYUKORHAN",
+    "count": "10011"
+  },
+  {
+    "address_city": "NIGDE",
+    "address_district": "ALTUNHISAR",
+    "count": "9992"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "MESUDIYE",
+    "count": "9931"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "SENIRKENT",
+    "count": "9863"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "ALPU",
+    "count": "9851"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "KOYULHISAR",
+    "count": "9848"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "CELIKHAN",
+    "count": "9657"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "AYAS",
+    "count": "9649"
+  },
+  {
+    "address_city": "KAHRAMANMARAS",
+    "address_district": "EKINOZU",
+    "count": "9625"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "CAYBASI",
+    "count": "9543"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "KOPRUKOY",
+    "count": "9501"
+  },
+  {
+    "address_city": "KARAMAN",
+    "address_district": "SARIVELILER",
+    "count": "9495"
+  },
+  {
+    "address_city": "NEVSEHIR",
+    "address_district": "HACIBEKTAS",
+    "count": "9491"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "SALPAZARI",
+    "count": "9474"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "CAVDIR",
+    "count": "9461"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "ERFELEK",
+    "count": "9451"
+  },
+  {
+    "address_city": "USAK",
+    "address_district": "KARAHALLI",
+    "count": "9415"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "ALTINEKIN",
+    "count": "9411"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "GOLPAZARI",
+    "count": "9344"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "PAZARYERI",
+    "count": "9340"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "KABATAS",
+    "count": "9318"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "YAHSIHAN",
+    "count": "9314"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "GUZELYURT",
+    "count": "9191"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "GOYNUCEK",
+    "count": "9177"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "ARICAK",
+    "count": "9153"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "ARDANUC",
+    "count": "9142"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "BOZKURT/DENIZLI",
+    "count": "9135"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "GUNEY",
+    "count": "9056"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "HOZAT",
+    "count": "9046"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "UZUMLU",
+    "count": "9023"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "ELDIVAN",
+    "count": "8978"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "KALKANDERE",
+    "count": "8977"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "ERUH",
+    "count": "8957"
+  },
+  {
+    "address_city": "GUMUSHANE",
+    "address_district": "TORUL",
+    "count": "8899"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "HAZRO",
+    "count": "8885"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "SARIZ",
+    "count": "8878"
+  },
+  {
+    "address_city": "DUZCE",
+    "address_district": "CUMAYERI",
+    "count": "8832"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "ASLANAPA",
+    "count": "8820"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "OVACIK/TUNCELI",
+    "count": "8784"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "GUNEYSU",
+    "count": "8767"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "MIHALICCIK",
+    "count": "8690"
+  },
+  {
+    "address_city": "GUMUSHANE",
+    "address_district": "KURTUN",
+    "count": "8589"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "BEYTUSSEBAP",
+    "count": "8530"
+  },
+  {
+    "address_city": "IGDIR",
+    "address_district": "KARAKOYUNLU",
+    "count": "8502"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "ARAPGIR",
+    "count": "8482"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "TOPRAKKALE",
+    "count": "8458"
+  },
+  {
+    "address_city": "KILIS",
+    "address_district": "MUSABEYLI",
+    "count": "8394"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "GOMEC",
+    "count": "8281"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "HACILAR",
+    "count": "8279"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "SUSUZ",
+    "count": "8265"
+  },
+  {
+    "address_city": "HATAY",
+    "address_district": "KUMLU",
+    "count": "8254"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "ENEZ",
+    "count": "8231"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "AYDINCIK/YOZGAT",
+    "count": "8227"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "BASMAKCI",
+    "count": "8183"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "AYDINCIK/ICEL",
+    "count": "8153"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "DAZKIRI",
+    "count": "8149"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "GUDUL",
+    "count": "8138"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "HOCALAR",
+    "count": "8136"
+  },
+  {
+    "address_city": "ISTANBUL",
+    "address_district": "ADALAR",
+    "count": "8120"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "KARAPURCEK",
+    "count": "8110"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "KOCAKOY",
+    "count": "8079"
+  },
+  {
+    "address_city": "VAN",
+    "address_district": "BAHCESARAY",
+    "count": "8077"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "AGACOREN",
+    "count": "8075"
+  },
+  {
+    "address_city": "MUGLA",
+    "address_district": "KAVAKLIDERE",
+    "count": "8041"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "DELICE",
+    "count": "8033"
+  },
+  {
+    "address_city": "DIYARBAKIR",
+    "address_district": "CUNGUS",
+    "count": "7999"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "COBANLAR",
+    "count": "7933"
+  },
+  {
+    "address_city": "KARS",
+    "address_district": "AKYAKA",
+    "count": "7889"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "TEFENNI",
+    "count": "7886"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "TUT",
+    "count": "7857"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "CAMAS",
+    "count": "7825"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "DEREBUCAK",
+    "count": "7805"
+  },
+  {
+    "address_city": "MERSIN",
+    "address_district": "CAMLIYAYLA",
+    "count": "7800"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "DADAY",
+    "count": "7797"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "REFAHIYE",
+    "count": "7574"
+  },
+  {
+    "address_city": "ARDAHAN",
+    "address_district": "CILDIR",
+    "count": "7556"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "CELTIK",
+    "count": "7501"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "ECEABAT",
+    "count": "7429"
+  },
+  {
+    "address_city": "MANISA",
+    "address_district": "KOPRUBASI/MANISA",
+    "count": "7395"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "ARTOVA",
+    "count": "7348"
+  },
+  {
+    "address_city": "KARAMAN",
+    "address_district": "AYRANCI",
+    "count": "7347"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "ALUCRA",
+    "count": "7306"
+  },
+  {
+    "address_city": "ARDAHAN",
+    "address_district": "HANAK",
+    "count": "7289"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "AKPINAR",
+    "count": "7282"
+  },
+  {
+    "address_city": "KARABUK",
+    "address_district": "EFLANI",
+    "count": "7273"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "GUNEYSINIR",
+    "count": "7264"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "YESILYURT/TOKAT",
+    "count": "7257"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "ULAS",
+    "count": "7243"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "AGLASUN",
+    "count": "7188"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "CARDAK",
+    "count": "7018"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "ATKARACALAR",
+    "count": "7016"
+  },
+  {
+    "address_city": "GAZIANTEP",
+    "address_district": "KARKAMIS",
+    "count": "6999"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "HAFIK",
+    "count": "6974"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "BOZKURT/KASTAMONU",
+    "count": "6893"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "CAYIRLI",
+    "count": "6885"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "BEKILLI",
+    "count": "6878"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "CAVDARHISAR",
+    "count": "6856"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "GUNDOGMUS",
+    "count": "6856"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "SULAKYURT",
+    "count": "6727"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "OLUR",
+    "count": "6669"
+  },
+  {
+    "address_city": "IZMIR",
+    "address_district": "KARABURUN",
+    "count": "6661"
+  },
+  {
+    "address_city": "ARDAHAN",
+    "address_district": "POSOF",
+    "count": "6660"
+  },
+  {
+    "address_city": "SAMSUN",
+    "address_district": "YAKAKENT",
+    "count": "6608"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "SIVRICE",
+    "count": "6588"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "CAMLIDERE",
+    "count": "6538"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "UZUNDERE",
+    "count": "6526"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "SAPHANE",
+    "count": "6500"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "ORTAKOY/CORUM",
+    "count": "6457"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "GULYALI",
+    "count": "6448"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "ALTINYAYLA/SIVAS",
+    "count": "6423"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "KIGI",
+    "count": "6394"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "MAHMUDIYE",
+    "count": "6361"
+  },
+  {
+    "address_city": "BURSA",
+    "address_district": "HARMANCIK",
+    "count": "6351"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "AZDAVAY",
+    "count": "6329"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "KULUNCAK",
+    "count": "6323"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "IYIDERE",
+    "count": "6315"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "DEMIRKOY",
+    "count": "6294"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "KARAMANLI",
+    "count": "6267"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "ARGUVAN",
+    "count": "6251"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "EMIRGAZI",
+    "count": "6248"
+  },
+  {
+    "address_city": "BALIKESIR",
+    "address_district": "MARMARA",
+    "count": "6240"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "GONEN/ISPARTA",
+    "count": "6226"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "LALAPASA",
+    "count": "6181"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "EVCILER",
+    "count": "6175"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "YENICAGA",
+    "count": "6158"
+  },
+  {
+    "address_city": "BARTIN",
+    "address_district": "KURUCASILE",
+    "count": "6103"
+  },
+  {
+    "address_city": "BAYBURT",
+    "address_district": "DEMIROZU",
+    "count": "6094"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "BAYAT/AFYON",
+    "count": "5974"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "TUZLUKCU",
+    "count": "5905"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "SULUSARAY",
+    "count": "5892"
+  },
+  {
+    "address_city": "ADIYAMAN",
+    "address_district": "SAMSAT",
+    "count": "5884"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "ULUBORLU",
+    "count": "5844"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "AKKISLA",
+    "count": "5841"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "DODURGA",
+    "count": "5823"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "DEREPAZARI",
+    "count": "5822"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "GUCE",
+    "count": "5820"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "INONU",
+    "count": "5795"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "KORGUN",
+    "count": "5782"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "HAYRAT",
+    "count": "5768"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "OGUZLAR",
+    "count": "5729"
+  },
+  {
+    "address_city": "EDIRNE",
+    "address_district": "SULOGLU",
+    "count": "5713"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "IMRANLI",
+    "count": "5690"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "GUNYUZU",
+    "count": "5664"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "BALISEYH",
+    "count": "5662"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "CATALZEYTIN",
+    "count": "5641"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "DOGANYURT",
+    "count": "5639"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "BABADAG",
+    "count": "5628"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "TASKENT",
+    "count": "5604"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "UGURLUDAG",
+    "count": "5578"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "BEYLIKOVA",
+    "count": "5538"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "CAMOLUK",
+    "count": "5481"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "SEBEN",
+    "count": "5399"
+  },
+  {
+    "address_city": "SAKARYA",
+    "address_district": "TARAKLI",
+    "count": "5398"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "CANAKCI",
+    "count": "5392"
+  },
+  {
+    "address_city": "HAKKARI",
+    "address_district": "CUKURCA",
+    "count": "5350"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "KURE",
+    "count": "5311"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "BEYAGAC",
+    "count": "5311"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "DORTDIVAN",
+    "count": "5273"
+  },
+  {
+    "address_city": "YALOVA",
+    "address_district": "ARMUTLU",
+    "count": "5217"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "KEMAH",
+    "count": "5177"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "ALACAKAYA",
+    "count": "5175"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "DIKMEN",
+    "count": "5071"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "BAKLAN",
+    "count": "5062"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "FELAHIYE",
+    "count": "5011"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "PAZARLAR",
+    "count": "5006"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "CELTIKCI",
+    "count": "4983"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "YENIFAKILI",
+    "count": "4971"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "AKOREN",
+    "count": "4927"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "GOKCEADA",
+    "count": "4916"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "BAHSILI",
+    "count": "4907"
+  },
+  {
+    "address_city": "GUMUSHANE",
+    "address_district": "KOSE",
+    "count": "4885"
+  },
+  {
+    "address_city": "GIRESUN",
+    "address_district": "DOGANKENT",
+    "count": "4824"
+  },
+  {
+    "address_city": "ORDU",
+    "address_district": "KABADUZ",
+    "count": "4818"
+  },
+  {
+    "address_city": "ARDAHAN",
+    "address_district": "DAMAL",
+    "count": "4817"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "KEBAN",
+    "count": "4817"
+  },
+  {
+    "address_city": "BAYBURT",
+    "address_district": "AYDINTEPE",
+    "count": "4815"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "IHSANGAZI",
+    "count": "4792"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "CAMLIHEMSIN",
+    "count": "4790"
+  },
+  {
+    "address_city": "ARTVIN",
+    "address_district": "MURGUL",
+    "count": "4764"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "NAZIMIYE",
+    "count": "4758"
+  },
+  {
+    "address_city": "AKSARAY",
+    "address_district": "SARIYAHSI",
+    "count": "4733"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "LACIN",
+    "count": "4721"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "BOZTEPE",
+    "count": "4688"
+  },
+  {
+    "address_city": "YOZGAT",
+    "address_district": "CANDIR",
+    "count": "4650"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "ATABEY",
+    "count": "4619"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "KALE/MALATYA",
+    "count": "4512"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "PINARBASI/KASTAMONU",
+    "count": "4465"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "SARICAKAYA",
+    "count": "4441"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "AKINCILAR",
+    "count": "4421"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "IKIZDERE",
+    "count": "4394"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "ILIC",
+    "count": "4339"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "KOPRUBASI/TRABZON",
+    "count": "4327"
+  },
+  {
+    "address_city": "TUNCELI",
+    "address_district": "PULUMUR",
+    "count": "4288"
+  },
+  {
+    "address_city": "KIRSEHIR",
+    "address_district": "AKCAKENT",
+    "count": "4180"
+  },
+  {
+    "address_city": "CANKIRI",
+    "address_district": "BAYRAMOREN",
+    "count": "4172"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "DERBENT",
+    "count": "4117"
+  },
+  {
+    "address_city": "SINOP",
+    "address_district": "SARAYDUZU",
+    "count": "4068"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "ALTINYAYLA/BURDUR",
+    "count": "4044"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "AKSU",
+    "count": "4042"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "SENPAZAR",
+    "count": "4038"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "YEDISU",
+    "count": "4002"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "AHIRLI",
+    "count": "3996"
+  },
+  {
+    "address_city": "KILIS",
+    "address_district": "ELBEYLI",
+    "count": "3984"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "KEMALIYE",
+    "count": "3958"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "HALKAPINAR",
+    "count": "3925"
+  },
+  {
+    "address_city": "SIRNAK",
+    "address_district": "GUCLUKONAK",
+    "count": "3850"
+  },
+  {
+    "address_city": "AMASYA",
+    "address_district": "HAMAMOZU",
+    "count": "3819"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "PEHLIVANKOY",
+    "count": "3817"
+  },
+  {
+    "address_city": "DENIZLI",
+    "address_district": "AKKOY",
+    "count": "3757"
+  },
+  {
+    "address_city": "CORUM",
+    "address_district": "BOGAZKALE",
+    "count": "3749"
+  },
+  {
+    "address_city": "KAYSERI",
+    "address_district": "OZVATAN",
+    "count": "3709"
+  },
+  {
+    "address_city": "ERZURUM",
+    "address_district": "PAZARYOLU",
+    "count": "3645"
+  },
+  {
+    "address_city": "OSMANIYE",
+    "address_district": "HASANBEYLI",
+    "count": "3629"
+  },
+  {
+    "address_city": "BATMAN",
+    "address_district": "HASANKEYF",
+    "count": "3616"
+  },
+  {
+    "address_city": "KARAMAN",
+    "address_district": "BASYAYLA",
+    "count": "3610"
+  },
+  {
+    "address_city": "TOKAT",
+    "address_district": "BASCIFTLIK",
+    "count": "3601"
+  },
+  {
+    "address_city": "ANTALYA",
+    "address_district": "IBRADI",
+    "count": "3457"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "HANONU",
+    "count": "3457"
+  },
+  {
+    "address_city": "MALATYA",
+    "address_district": "DOGANYOL",
+    "count": "3431"
+  },
+  {
+    "address_city": "YALOVA",
+    "address_district": "TERMAL",
+    "count": "3365"
+  },
+  {
+    "address_city": "BURDUR",
+    "address_district": "KEMER/BURDUR",
+    "count": "3322"
+  },
+  {
+    "address_city": "KILIS",
+    "address_district": "POLATELI",
+    "count": "3230"
+  },
+  {
+    "address_city": "KARAMAN",
+    "address_district": "KAZIMKARABEKIR",
+    "count": "3226"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "YENIPAZAR/BILECIK",
+    "count": "3155"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "SEYDILER",
+    "count": "3135"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "MIHALGAZI",
+    "count": "3045"
+  },
+  {
+    "address_city": "BOLU",
+    "address_district": "KIBRISCIK",
+    "count": "3008"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "ABANA",
+    "count": "3004"
+  },
+  {
+    "address_city": "BILECIK",
+    "address_district": "INHISAR",
+    "count": "2972"
+  },
+  {
+    "address_city": "TRABZON",
+    "address_district": "DERNEKPAZARI",
+    "count": "2836"
+  },
+  {
+    "address_city": "ANKARA",
+    "address_district": "EVREN",
+    "count": "2808"
+  },
+  {
+    "address_city": "KARABUK",
+    "address_district": "OVACIK/KARABUK",
+    "count": "2770"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "GOLOVA",
+    "count": "2639"
+  },
+  {
+    "address_city": "KUTAHYA",
+    "address_district": "DUMLUPINAR",
+    "count": "2549"
+  },
+  {
+    "address_city": "SIVAS",
+    "address_district": "DOGANSAR",
+    "count": "2528"
+  },
+  {
+    "address_city": "BINGOL",
+    "address_district": "YAYLADERE",
+    "count": "2524"
+  },
+  {
+    "address_city": "KASTAMONU",
+    "address_district": "AGLI",
+    "count": "2510"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "KARAKECILI",
+    "count": "2460"
+  },
+  {
+    "address_city": "KIRKLARELI",
+    "address_district": "KOFCAZ",
+    "count": "2451"
+  },
+  {
+    "address_city": "AFYONKARAHISAR",
+    "address_district": "KIZILOREN",
+    "count": "2318"
+  },
+  {
+    "address_city": "ELAZIG",
+    "address_district": "AGIN",
+    "count": "2220"
+  },
+  {
+    "address_city": "ISPARTA",
+    "address_district": "YENISARBADEMLI",
+    "count": "2081"
+  },
+  {
+    "address_city": "SIIRT",
+    "address_district": "AYDINLAR",
+    "count": "2076"
+  },
+  {
+    "address_city": "RIZE",
+    "address_district": "HEMSIN",
+    "count": "2004"
+  },
+  {
+    "address_city": "ESKISEHIR",
+    "address_district": "HAN",
+    "count": "1923"
+  },
+  {
+    "address_city": "ERZINCAN",
+    "address_district": "OTLUKBELI",
+    "count": "1742"
+  },
+  {
+    "address_city": "CANAKKALE",
+    "address_district": "BOZCAADA",
+    "count": "1688"
+  },
+  {
+    "address_city": "KIRIKKALE",
+    "address_district": "CELEBI",
+    "count": "1606"
+  },
+  {
+    "address_city": "KONYA",
+    "address_district": "YALIHUYUK",
+    "count": "1459"
+  },
+  {
+    "address_city": ""
+  }
+]
