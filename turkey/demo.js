@@ -47,49 +47,57 @@ function draw(target, data){
 
 var app;
 function start(){
-	app = angular.module('demoapp', ["ngResource"])
-	  .controller('SlideShowController', ['$scope', "$resource", function($scope, $resource) {
-		    var Worker = function(limit){
-		    	this.limit = limit;
-		    	this.count = 0;
-		    	return this;
-		    }
-		    Worker.prototype.assert = function(){
-				this.count++;
-		    	if(this.count<this.limit) return;
-		    	this.run();
-		    }
-		    Worker.prototype.run = function(){
-		    	var target = $(".migrationMap")[0];
-		    	var data = getInterCityMigration($scope.population_city,$scope.migration_city);
-		    	var network = draw(target,data);
-		    }
-		    var worker = new Worker(5);
+	function getData(url, callback){
+		$.get(url, function(data, status){
+	        callback(JSON.parse(data));
+	    });
+	}
+	var Worker = function(limit){
+    	this.limit = limit;
+    	this.count = 0;
+    	return this;
+    }
+    Worker.prototype.assert = function(){
+		this.count++;
+    	if(this.count<this.limit) return;
+    	this.run();
+    }
+    Worker.prototype.run = function(){
+    	var target = $(".migrationMap")[0];
+    	var data = getInterCityMigration($scope.population_city,$scope.migration_city);
+    	var network = draw(target,data);
+    }
+    var worker = new Worker(5);
+    
+    getData("data/population_district.json",function(res){
+    	$scope.population_district = res;
+    	worker.assert();
+    });
+    getData("data/external_migration_district.json",function(res){
+    	$scope.external_migration_district = res;
+    	worker.assert();
+    });
+    getData("data/population_city.json",function(res){
+    	$scope.population_city = res;
+    	worker.assert();
+    });
+    getData("data/external_migration_city.json",function(res){
+    	$scope.external_migration_city = res;
+    	worker.assert();
+    });
+    getData("data/migration_city.json",function(res){
+    	$scope.migration_city = res;
+    	worker.assert();
+    });
+
+    /*
+	app = angular.module('app', ["ngRoute", "ngResource"])
+	  .controller('DemoController', ['$scope', "$resource", function($scope, $resource) {
+		    
 		    function getData(url,callback){
 		    	var req = $resource(url);
         		req.get(callback);
 		    }
-		    getData("data/population_district.json",function(res){
-		    	$scope.population_district = res;
-		    	worker.assert();
-		    });
-		    getData("data/external_migration_district.json",function(res){
-		    	$scope.external_migration_district = res;
-		    	worker.assert();
-		    });
-		    getData("data/population_city.json",function(res){
-		    	$scope.population_city = res;
-		    	worker.assert();
-		    });
-		    getData("data/external_migration_city.json",function(res){
-		    	$scope.external_migration_city = res;
-		    	worker.assert();
-		    });
-		    getData("data/migration_city.json",function(res){
-		    	$scope.migration_city = res;
-		    	worker.assert();
-		    });
-
 
 		}]);
 	app.filter('reverse', function() {
@@ -97,4 +105,5 @@ function start(){
 	    return items.slice().reverse();
 	  };
 	});
+	*/
 }
