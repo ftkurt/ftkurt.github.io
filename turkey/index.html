@@ -1,13 +1,13 @@
 <html data-ng-app="app" data-ng-controller="DemoController">
 	<head>
-		<title>Turkish Internal Migrations</title>
+		<title>Turkey Internal Migrations</title>
 		<script type="text/javascript" src="assets/jquery.min.js"></script>
 		<script type="text/javascript" src="assets/bootstrap.min.js"></script>
 		<script type="text/javascript" src="assets/vis/vis.min.js"></script>
-		<!--<script type="text/javascript" src="assets/angular/angular.min.js"></script>-->
+		<!--<script type="text/javascript" src="assets/angular/angular.min.js"></script>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.js"></script>
 		<script type="text/javascript" src="assets/angular/angular-resource.min.js"></script>
-		<script type="text/javascript" src="assets/angular/angular-route.min.js"></script>
+		<script type="text/javascript" src="assets/angular/angular-route.min.js"></script>-->
 		<script type="text/javascript" src="demo.js"></script>
 		<link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="assets/bootstrap-theme.min.css">
@@ -20,34 +20,56 @@
 		</script>
 		<style type="text/css">
 		body{width: 100%;}
+		footer{text-align: center;}
 		output{display:initial !important;}
-		.demoContainer{
+		.demoHeader{
 			margin: 0px auto;
 			width: 1000px;
 		}
 		.header{
-			position: fixed;
 			width: 100%;
 			background-color: rgba(255, 255, 255, 0.9);
 			top:0px;
 			z-index: 9999;
 		}
-		.demoContent{margin-top: 98px;}
-		.migrationMap{
-
+		.demoContent{/*margin-top: 98px;*/}
+		.migrationMap, .internalMigrationMap, .filters, h2{
+			/*border: 1px solid black;*/
+			width: 90%;
+			margin: 0px auto;
+		}
+		.migrationMap, .internalMigrationMap{
+		    background-color: #F7F7F0;
+		}
+		.dropdown-menu.list{
+			max-height: 500px;
+			overflow-y: scroll;
 		}
 
 		</style>
 	</head>
 	<body onload="start()" ng-controller="DemoController">
-	  <div class="demoContainer">
+	  <div class="demoHeader">
 	  	<div class="header">
-		  	<h1><a href="#">Turkish Internal Migrations</a> Demo<small> by <a href="https://github.com/ftkurt">ftkurt</a></small></h1>
+		  	<h1><a href="https://github.com/ftkurt/ftkurt.github.io/tree/master/turkey">Turkey Internal Migrations</a> Demo<small> by <a href="https://github.com/ftkurt">ftkurt</a></small></h1>
 		  	<hr>
 	  	</div>
-		<div class="demoContent">
-			<div class="migrationMap"></div>
-		</div>
 	  </div>
+	  <div class="demoContent">
+		<div class="filters row">
+			<div class="dropdown" id="cityselection" style="margin:0px;">
+              <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                <span class="selection">Choose a city</span> <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu list" aria-labelledby="dropdownMenu1">
+              </ul>
+            </div>
+		</div>
+		<h2>Inter-City Migration</h2>
+		<div class="migrationMap"></div>
+		<h2>Intra-City Migration</h2>
+		<div class="internalMigrationMap"></div>
+	  </div><br><br><br>
+	  <footer>Created by <a href="https://github.com/ftkurt">ftkurt</a> | 2016</footer>
 	</body>
 </html>
