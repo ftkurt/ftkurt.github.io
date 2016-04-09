@@ -115,11 +115,14 @@ function start(){
 		$scope.city = city;
 		worker.assert();
 		if(city!=undefined){
+			$(".intraCityHeader").show();
 			var target = $(".internalMigrationMap")[0];
 	    	var data = getIntraCityMigration($scope.population_district,$scope.internal_migration_district,$scope.city);
 	    	console.log(data);
 	    	var network = draw(target,data);
 		}
+		else
+			$(".intraCityHeader").hide();
 	}
 	function getData(url, callback){
 		$.get(url, function(data, status){
