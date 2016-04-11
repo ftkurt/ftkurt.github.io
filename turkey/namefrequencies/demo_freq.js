@@ -126,7 +126,7 @@ function draw(data,target){
             }*/
             var cnt=0;
             for(var i in $scope[stype][city]){
-              var c = $scope[stype][city][i];
+              var c = $scope[stype][city][i]*1;
               var value = (type=="count"?c:c.toFixed(2)+"%");
               text += "<p>" + i + ": " + value + "</p><br>";
               if(++cnt>4) break;
