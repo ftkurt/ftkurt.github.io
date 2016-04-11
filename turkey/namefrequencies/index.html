@@ -60,13 +60,16 @@
 	  </div>
 	  <div class="demoContent">
 		<div class="filters row">
-			<div class="input-group col col-xs-6" style="float:left;">
+			<div class="input-group col col-xs-4" style="float:left;">
 	            <span class="input-group-addon">Lastname</span>
 	            <input type="text" class="form-control lastname" placeholder="Lastname" onchange="setLastname()" value="YILMAZ">
 	        </div>
-			<div class="input-group col col-xs-6" style="float:left;">
+			<div class="input-group col col-xs-4" style="float:left;">
 	            <span class="input-group-addon">Firstname</span>
 	            <input type="text" class="form-control firstname" placeholder="Firstname" onchange="setFirstname()" value="MEHMET">
+	        </div>
+	        <div class="col col-xs-4">
+	        	<button class="btn btn-primary" onclick="showGenderFrequency()">Show Gender Frequency</button>
 	        </div>
 	        <div style="margin-top: 10px;" class="btn-group" data-toggle="buttons">
                 <a class="btn btn-info active" href="#" onclick="setType('count')"><input type="radio" name="options" id="option1" checked=""><span>Occurrence</span></a>

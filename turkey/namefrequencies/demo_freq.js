@@ -13,6 +13,11 @@ function setFirstname(){
   firstname = $(".firstname").val();
   draw(searchFirstname(firstname.toUpperCase()),$(".frequencies"));
 }
+function showGenderFrequency(){
+  stype = "firstname";
+  firstname = $(".firstname").val();
+  drawRegular(getGenderFrequency(),$(".frequencies"),"Gender Frequencies");
+}
 function setType(t){
   type = t;
   if(stype == "lastname")
@@ -40,6 +45,18 @@ function searchFirstname(key){
   for(var i=0,e;e=$scope.firstname_frequency_city[i];i++){
     if(e.n == key)
       res.push(getEntry(e));
+  }
+  return res;
+}
+function getGenderFrequency(){
+  var res = [];
+  for(var i=0,e;e=$scope.gender_frequency_city[i];i++){
+    var diff = (e.female-e.male);
+    res.push({
+      "hc-key":hc_city_map[e.city.toLowerCase()],
+      "value":diff>0?1:-1,
+      "desc":Math.abs(diff)+" more "+(diff>0?"females":"males")+", ratio(f/m): "+(e.female/e.male).toFixed(2)//(e.kiz+e.erkek)
+    });
   }
   return res;
 }
@@ -137,6 +154,50 @@ function draw(data,target){
         }]
     });
 }
+
+function drawRegular(data,target,name){
+  target.highcharts('Map', {
+
+        title : {
+            text : name
+        },
+
+        subtitle : {
+            text : 'Source: <a href="https://github.com/ftkurt/Turkey-Migration-Name-Statistics">Turkey Migration & Name Statistics</a>'
+        },
+
+        mapNavigation: {
+            enabled: true,
+            buttonOptions: {
+                verticalAlign: 'bottom'
+            }
+        },
+
+        colorAxis: {
+            min: 0
+        },
+        tooltip:{
+          formatter:function(a){
+            return this.point.desc;
+          }
+        },
+        series : [{
+            data : data,
+            mapData: Highcharts.maps['countries/tr/tr-all'],
+            joinBy: 'hc-key',
+            name: name,
+            states: {
+                hover: {
+                    color: '#BADA55'
+                }
+            },
+            dataLabels: {
+                enabled: true,
+                format: '{point.name}'
+            }
+        }]
+    });
+}
 var app;
 var $scope = {};
 function start(){
@@ -151,11 +212,12 @@ function start(){
     	this.run();
     }
     Worker.prototype.run = function(){
-    	setLastname();
+    	//setLastname();
+      showGenderFrequency();
       $(".graphheader").show();
       $(".loading").hide();
     }
-    var worker = new Worker(3);
+    var worker = new Worker(4);
     function getData(url, callback){
       $.get(url, function(data, status){
         if(data.constructor === String)
@@ -175,7 +237,12 @@ function start(){
       worker.assert();
     });
     getData("data/firstname_frequency_city.json",function(res){
-    	$scope.firstname_frequency_city = res;
+      $scope.firstname_frequency_city = res;
+      $scope.firstname = createCityNameMap(res);
+      worker.assert();
+    });
+    getData("data/gender_frequency_city.json",function(res){
+    	$scope.gender_frequency_city = res;
       $scope.firstname = createCityNameMap(res);
     	worker.assert();
     });
