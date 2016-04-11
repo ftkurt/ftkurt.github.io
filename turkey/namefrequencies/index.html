@@ -1,0 +1,84 @@
+<html data-ng-app="app" data-ng-controller="DemoController">
+	<head>
+		<title>Turkey Name Frequencies</title>
+		<script type="text/javascript" src="assets/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/bootstrap.min.js"></script>
+		<script type="text/javascript" src="assets/vis/vis.min.js"></script>
+		<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+		<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>"
+		<script src="https://code.highcharts.com/mapdata/countries/tr/tr-all.js"></script>
+		<!--<script type="text/javascript" src="assets/angular/angular.min.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.js"></script>
+		<script type="text/javascript" src="assets/angular/angular-resource.min.js"></script>
+		<script type="text/javascript" src="assets/angular/angular-route.min.js"></script>-->
+		<script type="text/javascript" src="demo_freq.js"></script>
+		<link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/bootstrap-theme.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/vis/vis.min.css">
+		<script type="text/javascript">
+			
+		</script>
+		<script type="text/javascript">
+			
+		</script>
+		<style type="text/css">
+		body{width: 100%;}
+		footer{text-align: center;}
+		output{display:initial !important;}
+		.demoHeader{
+			margin: 0px auto;
+			width: 1000px;
+		}
+		.header{
+			width: 100%;
+			background-color: rgba(255, 255, 255, 0.9);
+			top:0px;
+			z-index: 9999;
+		}
+		.demoContent{/*margin-top: 98px;*/}
+		.migrationMap, .internalMigrationMap, .filters, .graphheader, .loading, .frequencies{
+			/*border: 1px solid black;*/
+			width: 90%;
+			margin: 0px auto;
+		}
+		.migrationMap, .internalMigrationMap{
+		    background-color: #F7F7F0;
+		}
+		.dropdown-menu.list{
+			max-height: 500px;
+			overflow-y: scroll;
+		}
+
+		</style>
+	</head>
+	<body onload="start()" ng-controller="DemoController">
+	  <div class="demoHeader">
+	  	<div class="header">
+		  	<h1><a href="https://github.com/ftkurt/Turkey-Migration-Name-Statistics">Turkey Name Frequencies</a> Demo<small> by <a href="https://github.com/ftkurt">ftkurt</a></small></h1>
+		  	<hr>
+	  	</div>
+	  </div>
+	  <div class="demoContent">
+		<div class="filters row">
+			<div class="input-group col col-xs-6" style="float:left;">
+	            <span class="input-group-addon">Lastname</span>
+	            <input type="text" class="form-control lastname" placeholder="Lastname" onchange="setLastname()" value="YILMAZ">
+	        </div>
+			<div class="input-group col col-xs-6" style="float:left;">
+	            <span class="input-group-addon">Firstname</span>
+	            <input type="text" class="form-control firstname" placeholder="Firstname" onchange="setFirstname()" value="MEHMET">
+	        </div>
+	        <div style="margin-top: 10px;" class="btn-group" data-toggle="buttons">
+                <a class="btn btn-info active" href="#" onclick="setType('count')"><input type="radio" name="options" id="option1" checked=""><span>Occurrence</span></a>
+                <a class="btn btn-info" href="#" onclick="setType('frequency')"><input type="radio" name="options" id="option2"><span>Frequency</span></a>
+            </div>
+		</div>
+		<h2 class="graphheader" style="display:none;">Frequency Map</h2>
+		<div class="loading">
+		  <h1><i class="fa fa-refresh fa-spin"></i> Looading...</h1>
+		 </div>
+		<div class="frequencies"></div>
+	  </div><br><br><br>
+	  <footer>Created by <a href="https://github.com/ftkurt">ftkurt</a> | 2016 <br>link to <a href="https://github.com/ftkurt/Turkey-Migration-Name-Statistics">data</a></footer>
+	</body>
+</html>

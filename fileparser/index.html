@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en">
+	<head>
+		<title>File Parser</title>
+		<script type="text/javascript" src="parser.js"></script>
+		<script type="text/javascript" src="assets/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/FileSaver.min.js"></script>
+		<script type="text/javascript" src="assets/bootstrap.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/bootstrap-theme.min.css">
+		<script type="text/javascript">
+			var sample = {
+				xml: '<?xml version="1.0"?>\
+<samplexml>\
+   <samplebook id="bk101">\
+      <author>Gambardella, Matthew</author>\
+      <title>XML Developer\'s Guide</title>\
+      <genre>Computer</genre>\
+      <price>44.95</price>\
+      <publish_date>2000-10-01</publish_date>\
+      <description>An in-depth look at creating applications \
+      with XML.</description>\
+   </samplebook>\
+   <samplebook id="bk102">\
+      <author>Ralls, Kim</author>\
+      <title>Midnight Rain</title>\
+      <genre>Fantasy</genre>\
+      <price>5.95</price>\
+      <publish_date>2000-12-16</publish_date>\
+      <description>A former architect battles corporate zombies, \
+      an evil sorceress, and her own childhood to become queen \
+      of the world.</description>\
+   </samplebook>\
+</samplexml>',
+				ini:'[sampleowner]\n\
+name=John Doe\n\
+organization=Acme Widgets Inc.\n\
+ \n\
+[sampledatabase]\n\
+; use IP address in case network name resolution is not working\n\
+server=192.0.2.62     \n\
+port=143\n\
+file="payroll.dat"',
+				json:'{\
+  "samplexml": [\
+    {\
+      "id": "bk101",\
+      "author": "Gambardella, Matthew",\
+      "title": "XML Developer\'s Guide",\
+      "genre": "Computer",\
+      "price": "44.95",\
+      "publish_date": "2000-10-01",\
+      "description": "An in-depth look at creating applications with XML."\
+    },\
+    {\
+      "id": "bk102",\
+      "author": "Ralls, Kim",\
+      "title": "Midnight Rain",\
+      "genre": "Fantasy",\
+      "price": "5.95",\
+      "publish_date": "2000-12-16",\
+      "description": "A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world."\
+    }\
+  ]\
+}',
+				csv:'author;title;genre;price;\r\n\
+Gambardella, Matthew;XML Developer\'s Guide;Computer;44.95\r\n\
+Ralls, Kim;Midnight Rain;Fantasy;5.95'
+				};
+		</script>
+		<script type="text/javascript" src="demo.js"></script>
+		<style type="text/css">
+		.filedrop{
+			border: 2px dashed #BBB;
+			-moz-border-radius: 5px;
+			-webkit-border-radius: 5px;
+			border-radius: 5px;
+			padding: 12px;
+			text-align: left;
+			font: 20pt bold 'Vollkorn';
+			color: #BBB;
+			-webkit-user-drag: auto;
+		}
+		body{width: 100%;}
+		output{display:initial !important;}
+		.parserContainer{
+			margin: 0px auto;
+			width: 1000px;
+		}
+		.caret{/*float: right;*/}
+		.optionsTA, .IOTA{
+			width: 100%;
+			background-color: rgba(255,255,255,0.6);
+		}
+		.optionsTA {
+			height: 140px;
+		}
+		.IOTA{
+			height: 400px;
+		}
+		.filetype, .filetype>button{
+			min-width: 150px;
+		}
+		.left{text-align: left;}
+		.right{text-align: right;}
+		.col-xs-6{padding: 0px;}
+		.inputField, .outputField{padding: 3px;}
+		.header{
+			position: fixed;
+			width: 100%;
+			background-color: rgba(255, 255, 255, 0.9);
+			top:0px;
+			z-index: 9999;
+		}
+		.testInput{margin-top: 98px;}
+		</style>
+	</head>
+	<body onload="start()">
+	  <div class="parserContainer">
+	  	<div class="header">
+		  	<h1><a href="https://github.com/ftkurt/FileParser">parser.js</a> Demo<small> by <a href="https://github.com/ftkurt">ftkurt</a></small></h1>
+		  	<hr>
+	  	</div>
+		<div class="testInput">
+			
+		</div>
+	  </div>
+	</body>
+</html>
