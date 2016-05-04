@@ -1,5 +1,7 @@
 var type = "count";
+var freq_selection = "top";
 var lastname,firstname,stype="lastname";
+var page = 0;
 String.prototype.capitalize = function() {
     return this.toLowerCase().charAt(0).toUpperCase() + this.slice(1);
 }
@@ -11,7 +13,19 @@ function setLastname(){
 function setFirstname(){
   stype = "firstname";
   firstname = $(".firstname").val();
-  draw(searchFirstname(firstname.toUpperCase()),$(".frequencies"));
+  var chs = $(".frequencies").html('<div class="col col-xs-4"></div><div class="col col-xs-8"></div>').children();
+  draw(searchFirstname(firstname.toUpperCase()),chs.last());
+  var l = $scope.gender_frequency_firstname[firstname.toUpperCase()];
+  drawPie([
+    {
+      name:"Female",
+      y:l.f
+    },
+    {
+      name:"Male",
+      y:l.m
+    }
+    ], chs.first(),"Gender distribution for "+firstname.capitalize());
 }
 function showGenderFrequency(){
   stype = "firstname";
@@ -22,7 +36,21 @@ function setType(t){
   type = t;
   if(stype == "lastname")
     draw(searchLastname(lastname.toUpperCase()),$(".frequencies"));
-  else draw(searchFirstname(firstname.toUpperCase()),$(".frequencies"));
+ }
+function setSelection(t){
+  freq_selection = t;
+  drawPareto(getParetoData($scope.firstname_ranking),$(".firstnamerank"));
+  drawPareto(getParetoData($scope.lastname_ranking),$(".lastnamerank"));
+}
+function setPage(inc){
+  page = page+inc;
+  if(page<0) page = 0;
+  $("#page").val(page);
+  setSelection(freq_selection);
+}
+function setPage_(){
+  page = $("#page").val()*1;
+  setSelection(freq_selection);
 }
 function getEntry(e){
   var total = $scope.population_city[e.c];
@@ -241,17 +269,35 @@ function getParetoData(list){
     "categories":[]
   }
   var total = 0;
-  for(var i=0,l;l=list[i];i++){
-    total += l.f*1;
-    if(i<limit){
-      data.series[0].data.push(l.f*1);
-      data.series[1].data.push(total);
-      data.categories.push(l.n);
+  if(freq_selection == "top"){
+    for(var i=0,l;l=list[i];i++){
+      total += l.f*1;
+      if(i<limit&&(i/limit)>=page){
+        var frk = $scope.gender_frequency_firstname[l.n.toUpperCase()]||{};
+        data.series[0].data.push({name:l.n,y:l.f*1,color:(frk.f>frk.m?"red":"blue")});
+        data.series[1].data.push({name:l.n,y:total});
+        //data.categories.push(l.n);
+      }
+    }
+  }
+  else{
+    var cnt = 0, cnt1=0;
+    for(var i=list.length-1,l;l=list[i];i--){
+      total += l.f*1;
+      cnt1++;
+      if(cnt<limit&&(cnt1/limit)>=page){
+        cnt++;
+        var frk = $scope.gender_frequency_firstname[l.n.toUpperCase()]||{};
+        data.series[0].data.push({name:l.n,y:l.f*1,color:(frk.f>frk.m?"red":"blue")});
+        data.series[1].data.push({name:l.n,y:total});
+        //data.categories.push(l.n);
+      }
     }
   }
   for(var i=0;i<data.series[1].data.length;i++){
     data.series[1].data[i] = (100*data.series[1].data[i])/total;
   }
+  console.log(data);
   return data;
 }
 function drawPareto(data,target){
@@ -306,6 +352,60 @@ function drawPareto(data,target){
   };
   var graph = target.highcharts(options);
 }
+function drawPie(data,target,name){
+  target.highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: name||'Browser market shares January, 2015 to May, 2015'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %<br><b>{point.name}</b>: {point.value:.1f}',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Count',
+            colorByPoint: true,
+            data: data || [{
+                name: 'Microsoft Internet Explorer',
+                y: 56.33
+            }, {
+                name: 'Chrome',
+                y: 24.03,
+                sliced: true,
+                selected: true
+            }, {
+                name: 'Firefox',
+                y: 10.38
+            }, {
+                name: 'Safari',
+                y: 4.77
+            }, {
+                name: 'Opera',
+                y: 0.91
+            }, {
+                name: 'Proprietary or Undetectable',
+                y: 0.2
+            }]
+        }]
+    });
+}
 var app;
 var $scope = {};
 function start(){
@@ -328,7 +428,7 @@ function start(){
       drawPareto(getParetoData($scope.lastname_ranking),$(".lastnamerank"));
 
     }
-    var worker = new Worker(6);
+    var worker = new Worker(7);
     function getData(url, callback){
       $.get(url, function(data, status){
         if(data.constructor === String)
@@ -366,6 +466,16 @@ function start(){
     });
     getData("data/lastname_ranking.json",function(res){
       $scope.lastname_ranking = res;
+      worker.assert();
+    });
+    getData("data/gender_frequency_firstname.json",function(res){
+      var names = {},list = $(".binames");
+      for(var i=0,n;n=res[i];i++){
+        var ratio = n.f/n.m;
+        if(ratio>1/3||ratio<2/3) list.append('<tr><th>'+n.n.capitalize()+'</th><td>'+n.f+'</td><td>'+n.m+'</td><td>'+(100*n.f/(n.f+n.m)).toFixed(1)+' %</td></tr>');
+        names[n.n] = {f:n.f*1,m:n.m*1};
+      }
+      $scope.gender_frequency_firstname = names;
     	worker.assert();
     });
 	}

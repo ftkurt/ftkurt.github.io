@@ -38,7 +38,7 @@
 			z-index: 9999;
 		}
 		.demoContent{/*margin-top: 98px;*/}
-		.migrationMap, .internalMigrationMap, .filters, .graphheader, .loading, .frequencies, .firstnamerank, .lastnamerank{
+		.migrationMap, .internalMigrationMap, .filters, .graphheader, .loading, .frequencies, .firstnamerank, .lastnamerank, .freq_selection{
 			/*border: 1px solid black;*/
 			width: 90%;
 			margin: 0px auto;
@@ -80,11 +80,36 @@
 		</div>
 		<h2 class="graphheader" style="display:none;">Frequency Map</h2>
 		<div class="loading">
-		  <h1><i class="fa fa-refresh fa-spin"></i> Looading...</h1>
+		  <h1><i class="fa fa-refresh fa-spin"></i> Loading...</h1>
 		 </div>
 		<div class="frequencies"></div>
+		<div class="row">
+			<div style="margin-top: 10px;display:block" class="btn-group freq_selection" data-toggle="buttons">
+	            <a class="btn btn-info active" href="#" onclick="setSelection('top')"><input type="radio" name="options" id="option1" checked=""><span>Descending</span></a>
+	            <a class="btn btn-info" href="#" onclick="setSelection('bottom')"><input type="radio" name="options" id="option2"><span>Ascending</span></a>
+	        </div>
+		</div>
+		<div class="row">
+			<div style="margin-top: 10px;display:block" class="btn-group freq_selection" data-toggle="buttons">
+	            <a class="btn btn-success active" href="#" onclick="setPage(-1)"><input type="radio" name="options" id="option1" checked=""><span>Prev</span></a>
+	            <a class="btn btn-success active" style="padding: 3px;"><input type="number" id="page" onchange="setPage_()" value="1" style="color: blue;width: 60px;text-align: center;"></a>
+	            <a class="btn btn-success" href="#" onclick="setPage(1)"><input type="radio" name="options" id="option2"><span>Next</span></a>
+	        </div>
+		</div>
 		<div class="firstnamerank"></div>
 		<div class="lastnamerank"></div>
+		<div>
+			<h2 class="graphheader" style="display:none;">Bisexual Names</h2>
+			<table class="table table-condensed table-hover header-fixed">
+				<thead>
+					<th>Name</th>
+					<th>Female</th>
+					<th>Male</th>
+					<th>Female %</th>
+				</thead>
+				<tbody class="binames"></tbody>
+			</table>
+		</div>
 	  </div><br><br><br>
 	  <footer>Created by <a href="https://github.com/ftkurt">ftkurt</a> | 2016</footer>
 	</body>
